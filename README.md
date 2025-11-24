@@ -1,1 +1,3 @@
-# Real-Time-CRM-Analytics-Dashboard-Sales-Prediction-Event-Streaming
+# Real-Time CRM Analytics Project
+
+Complete project structure for resume & GitHub.
