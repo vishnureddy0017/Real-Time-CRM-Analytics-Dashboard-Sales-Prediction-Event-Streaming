@@ -156,7 +156,4 @@ Perfect for opportunities at:
 
 ---
 
-## 👨‍💻 Author
 
-**Vishnu**  
-Backend • ML • Cloud Developer  
